@@ -6,7 +6,7 @@ Grade: Bioinformatics Master and Modelling (ULB).
 
 This simple program try to solve the following  assignment https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/master/GildedRoseRequirements.txt
 
-The project is build Using C# programming language and .net core framework version 2.1.104.
+The project is built Using C# programming language and .net core framework version 2.1.104.
 The text editor used is Visual studio Code version 1.28.2.
 The Project contains:
 1- One  interface: IItem =>  IItem contains 2 methods UpdateValues and Print
